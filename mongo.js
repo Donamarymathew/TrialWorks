@@ -15,7 +15,7 @@ db.books.insert(
     {Name:"The Origin of Species",
     Author:"Charles Darwin",
     Binding:["Hardback"],
-    NoOfCopies:{Hardback:0451529065},
+
     ISBN:{Hardback:10},
     Cost:{Hardback:800},
     Classified:["biology", "life sciences", "evolution", "science"]
